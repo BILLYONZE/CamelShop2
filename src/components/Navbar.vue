@@ -3,7 +3,6 @@
   <template v-slot:prepend>
     <v-app-bar-nav-icon></v-app-bar-nav-icon>
   </template>
-
   <v-app-bar-title>Camel Shop</v-app-bar-title>
   <v-btn to="/">Home</v-btn>
   <v-btn to="/Products">Products</v-btn>
